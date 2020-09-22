@@ -119,7 +119,7 @@ const Home = () => {
     <>
       <Head>
         <title>Find Them</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/missing.png" />
       </Head>
       <Layout>
         <div className={classes.root}>
